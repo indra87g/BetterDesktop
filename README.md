@@ -1,2 +1,3 @@
-# IlustroReimagined
-default rainmeter skin, Ilustro. but a remade version
+# BetterDesktop
+
+cool rainmeter skin, but not for now :)
