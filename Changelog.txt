@@ -1,0 +1,68 @@
++ ====================== +
+|Better Desktop Changelog|
++ ====================== +
+
+ 
+ =====
+| V 1 |
+ =====
+
+BETA 1.0.0         
+++++++++++
+New Feature :
+- Clock
+- Dock
+- Weather
+- Greeting
+- Settings ( Testing Only )
+- Notes 
+- Recycle Bin
+- Song Info
+- Visualizer
+
+Release 1.1.0
++++++++++++++
+New Feature :
+- Cryptocurrency Info ( BTC, ETH )
+
+Improvement :
+- Fix some bug
+- Temporary delete setting widget
+
+Release 1.2.0 
++++++++++++++
+New Feature :
+
+- Dark mode
+- Website shortcut dock widget
+- Digital clock widget
+
+Improvement :
+- Improving greets widget
+- Setting is comeback with new UI
+
+Release 1.2.1 ( Coming Soon )
++++++++++++++++++++++++++++++
+Improvement :
+- Weather widget
+- Donate widget
+- Redesigned greets widget
+
+New Feature :
+- Fix notes widget
+
+
+
+BETA 1.3.0 ( Spoiler )
+++++++++++++++++++++++
+New Feature :
+- Battery status widget
+- Network status widget
+
+Improvement :
+
+
+ =====
+| V 2 |
+ =====
+COMING SOON
