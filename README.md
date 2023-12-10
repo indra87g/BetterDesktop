@@ -1,4 +1,4 @@
-# Better Desktop | **V 0.1.0**
+# Better Desktop | **V 1.2.0**
 
 Better Desktop is a awesome widget that is compatible with the Windows operating system and can be integrated
 with Rainmeter software. This widget provides various useful features, such as Clock, Quotes, and Notes.
