@@ -30,7 +30,8 @@ is the right choice for Windows users looking to enhance their desktop experienc
 
 ## Preview
 
-![Alt text](preview1.jpg)
+![Alt text](preview1.jpg)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Findra87g%2FBetterDesktop.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Findra87g%2FBetterDesktop?ref=badge_shield)
+
 ![Alt text](preview2.jpg)
 
 ## Contributor
@@ -52,3 +53,7 @@ is the right choice for Windows users looking to enhance their desktop experienc
 - [Our Discord (on #betterdesktop channel)]()
 
 #  Useful Links
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Findra87g%2FBetterDesktop.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Findra87g%2FBetterDesktop?ref=badge_large)
